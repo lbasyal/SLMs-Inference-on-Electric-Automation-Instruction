@@ -12,3 +12,5 @@ SLMs-Inference-on-Electric-Automation-Instruction/SLM-inference-on-electric-auto
 Kaggle Link: https://www.kaggle.com/code/lochanbasyal/slms-inference-on-electric-automation-instruction?scriptVersionId=299902642
 
 
+### Datasets Information:
+https://www.kaggle.com/datasets/lochanbasyal/home-automation-intent-classification?select=intent_classification_reasoning_140.jsonl
